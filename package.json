@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl.textfield",
+	"version": "20160421.0.0",
+	"description": "module zz.ui.mdl.zz.ui.mdl.textfield",
+	"author": {
+		"name": "Popkov Alexander",
+		"email": "popkov.aleksander@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.ui.mdl.textfield",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.textfield.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
